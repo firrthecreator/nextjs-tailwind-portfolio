@@ -9,7 +9,15 @@
     "start": "next start",
     "lint": "eslint ."
   },
-  "keywords": [],
+  "keywords": [
+    "portfolio",
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "fullstack",
+    "frontend"
+  ],
   "author": "Firr, The Creator.",
   "license": "MIT",
   "packageManager": "pnpm@10.27.0",
