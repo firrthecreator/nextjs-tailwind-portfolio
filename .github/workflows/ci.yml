@@ -18,7 +18,7 @@ on:
 
 # Environment variables available to all jobs
 env:
-  NODE_VERSION: "18"
+  NODE_VERSION: "20"
   PNPM_VERSION: "10.27.0"
 
 # Concurrency control - cancel previous runs if a new one is triggered
