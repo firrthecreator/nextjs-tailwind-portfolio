@@ -39,17 +39,17 @@ export const BREAKPOINTS = {
 export const SEO = {
   SITE_NAME: "Ananda Firmansyah",
   SITE_DESCRIPTION: "Full Stack Developer Portfolio - JavaScript, TypeScript, Go, C++, Rust, Python",
-  SITE_URL: "https://firthecreator.vercel.app", // Update with your domain
-  TWITTER_HANDLE: "@firthecreator",
-  GITHUB_URL: "https://github.com/firthecreator",
+  SITE_URL: "https://firrthecreator.vercel.app", // Update with your domain
+  TWITTER_HANDLE: "@firrthecreator",
+  GITHUB_URL: "https://github.com/firrthecreator",
 } as const
 
 /**
  * Social media configuration
  */
 export const SOCIAL_MEDIA = {
-  GITHUB: "https://github.com/firthecreator",
-  LINKEDIN: "https://linkedin.com/in/firthecreator",
-  TWITTER: "https://twitter.com/firthecreator",
-  EMAIL: "firthecreator@gmail.com",
+  GITHUB: "https://github.com/firrthecreator",
+  LINKEDIN: "https://linkedin.com/in/firrthecreator",
+  TWITTER: "https://twitter.com/firrthecreator",
+  EMAIL: "firrthecreator@gmail.com",
 } as const

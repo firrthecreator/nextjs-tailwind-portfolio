@@ -105,7 +105,7 @@ export function About(): React.ReactElement {
                 <div className="text-sm text-muted-foreground">Languages</div>
               </div>
               <div className="p-4 bg-card rounded-lg border border-border">
-                <div className="text-2xl font-bold text-accent">10+</div>
+                <div className="text-2xl font-bold text-accent">5+</div>
                 <div className="text-sm text-muted-foreground">Projects</div>
               </div>
               <div className="p-4 bg-card rounded-lg border border-border">

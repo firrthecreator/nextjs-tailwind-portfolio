@@ -57,10 +57,10 @@ export function Footer(): React.ReactElement {
             <h4 className="font-semibold mb-4">Resources</h4>
             <ul className="space-y-2">
               {[
-                { label: "GitHub", href: "https://github.com/firthecreator" },
-                { label: "LinkedIn", href: "https://linkedin.com/in/firthecreator" },
-                { label: "Twitter", href: "https://twitter.com/firthecreator" },
-                { label: "Email", href: "mailto:firthecreator@gmail.com" },
+                { label: "GitHub", href: "https://github.com/firrthecreator" },
+                { label: "LinkedIn", href: "https://linkedin.com/in/firrthecreator" },
+                { label: "Twitter", href: "https://twitter.com/firrthecreator" },
+                { label: "Email", href: "mailto:firrthecreator@gmail.com" },
               ].map((link) => (
                 <li key={link.href}>
                   <a

@@ -179,7 +179,7 @@ export function Projects(): React.ReactElement {
         <div className="text-center pt-8">
           <p className="text-muted-foreground mb-4">Want to see more projects?</p>
           <a
-            href="https://github.com/firthecreator"
+            href="https://github.com/firrthecreator"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-6 py-3 bg-card border border-primary/50 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-semibold"
