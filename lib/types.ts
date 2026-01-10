@@ -13,7 +13,7 @@
  */
 export interface Skill {
   name: string
-  category: "Frontend" | "Backend" | "DevOps" | "Tools" | "Languages"
+  category: "Frontend" | "Backend" | "DevOps" | "Tools" | "Languages" | "OS"
   proficiency: number
   keywords: string[]
 }

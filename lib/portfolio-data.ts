@@ -93,6 +93,12 @@ export const skills: Skill[] = [
     keywords: ["SQL", "Normalization", "Indexing", "Transactions"],
   },
   {
+    name: "MySQL",
+    category: "Backend",
+    proficiency: 3,
+    keywords: ["SQL", "Joins", "Indexes"],
+  },
+  {
     name: "MongoDB",
     category: "Backend",
     proficiency: 4,
@@ -105,10 +111,28 @@ export const skills: Skill[] = [
     keywords: ["Containerization", "Docker Compose", "Images"],
   },
   {
+    name: "GitHub Actions",
+    category: "DevOps",
+    proficiency: 3,
+    keywords: ["CI/CD", "Automation", "Workflows"],
+  },
+  {
+    name: "CMake",
+    category: "Tools",
+    proficiency: 4,
+    keywords: ["Build System", "Cross-Platform", "C++ Projects"],
+  },
+  {
     name: "Git",
     category: "Tools",
     proficiency: 5,
     keywords: ["Version Control", "Branching", "Collaboration"],
+  },
+  {
+    name: "Bash",
+    category: "Tools",
+    proficiency: 4,
+    keywords: ["Shell Scripting", "Automation", "CLI"],
   },
 
   // Tools
@@ -117,6 +141,38 @@ export const skills: Skill[] = [
     category: "Tools",
     proficiency: 5,
     keywords: ["Extensions", "Debugging", "Workflow"],
+  },
+
+  // OS
+  {
+    name: "Linux (Arch Linux)",
+    category: "OS",
+    proficiency: 5,
+    keywords: ["System Administration", "Package Management", "Shell"],
+  },
+  {
+    name: "Linux (Ubuntu)",
+    category: "OS",
+    proficiency: 4,
+    keywords: ["Server Environment", "LTS", "Deployment"],
+  },
+  {
+    name: "Linux (Kali Linux)",
+    category: "OS",
+    proficiency: 3,
+    keywords: ["Security Testing", "Networking", "Linux Tools"],
+  },
+  {
+    name: "Linux (CachyOS)",
+    category: "OS",
+    proficiency: 4,
+    keywords: ["Arch-based", "Performance Tuning", "Desktop Linux"],
+  },
+  {
+    name: "Windows",
+    category: "OS",
+    proficiency: 4,
+    keywords: ["Development", "WSL", "Cross-Platform Testing"],
   },
 ]
 

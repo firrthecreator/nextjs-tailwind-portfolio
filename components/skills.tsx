@@ -87,7 +87,7 @@ export function Skills(): React.ReactElement {
     {} as Record<string, typeof skills>,
   )
 
-  const categoryOrder = ["Languages", "Frontend", "Backend", "DevOps", "Tools"]
+  const categoryOrder = ["Languages", "Frontend", "Backend", "DevOps", "Tools", "OS"]
 
   return (
     <section id="skills" className="py-20 px-4 max-w-7xl mx-auto">
