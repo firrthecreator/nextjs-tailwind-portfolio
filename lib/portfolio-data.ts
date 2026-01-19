@@ -250,6 +250,23 @@ export const projects: Project[] = [
       "Lightweight and dependency-free C++ implementation",
     ],
   },
+  {
+    id: "project-5",
+    title: "Quick Share",
+    description: "A lightweight, CLI-based file sharing tool written in Go. Transfer files instantly between devices on the same local network via HTTP.",
+    image: "/quick-share-interface.png",
+    technologies: ["Go", "net/http", "Go Modules", "CLI"],
+    link: "https://github.com/firrthecreator/quick-share",
+    github: "https://github.com/firrthecreator/quick-share",
+    features: [
+      "Instant file sharing over local network (Wi-Fi / LAN) via HTTP",
+      "Terminal-generated QR code for quick device connection",
+      "Download & upload support for bidirectional file transfer",
+      "Automatic local IP address detection",
+      "Single self-contained binary with zero external dependencies",
+      "Cross-platform CLI tool (Windows, macOS, Linux)"
+    ],
+  },
 ]
 
 /**
