@@ -267,6 +267,23 @@ export const projects: Project[] = [
       "Cross-platform CLI tool (Windows, macOS, Linux)"
     ],
   },
+  {
+    id: "project-6",
+    title: "XDB",
+    description: "A high-performance, thread-safe, document-oriented database written in pure C. XDB implements a custom JSON storage engine with TCP networking, designed to demonstrate modular systems programming, memory management, and clean architecture principles.",
+    image: "/xdb-interface.png",
+    technologies: ["C", "TCP Networking", "Custom JSON Engine", "Thread-safe Design", "Modular Architecture"],
+    link: "https://github.com/firrthecreator/XDB",
+    github: "https://github.com/firrthecreator/XDB",
+    features: [
+      "High-performance, thread-safe database core",
+      "Document-oriented storage with custom JSON engine",
+      "TCP-based networking for client-server communication",
+      "Modular system architecture for maintainability",
+      "Efficient memory management and resource control",
+      "Clean and extensible C codebase"
+    ],
+  },
 ]
 
 /**
